@@ -1,3 +1,7 @@
 whoami
 where
+<<<<<<< HEAD
 
+=======
+learn
+>>>>>>> second
